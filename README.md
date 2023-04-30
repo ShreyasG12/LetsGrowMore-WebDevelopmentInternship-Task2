@@ -14,7 +14,7 @@ The Registration Form is a simple web application that allows users to register 
 To get started, you can clone this repository to your local machine using the following command:
 
 ```
-git clone https://github.com/<YOUR-USERNAME>/lgm-internship-web-development.git
+git clone https://github.com/ShreyasG12/LetsGrowMore-WebDevelopmentInternship-Task2.git
 ```
 
 ## Prerequisites
